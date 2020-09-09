@@ -3,6 +3,9 @@
         "@guessTabSize": true,
         "@tabSize": 2
     },
+    "build": {
+        "@saveall": true
+    },
     "general": {
         "@stripws": true
     },
